@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "deepseek.max-chars",
+      "type": "java.lang.String",
+      "description": "Description for deepseek.max-chars."
+  }
+] }
